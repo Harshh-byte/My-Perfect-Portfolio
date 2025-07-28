@@ -154,27 +154,27 @@ export const capabilities = [
     title: "Web Design",
     contents: [
       "Amplify your online presence with a website that truly connects with your audience's feelings and desires. I design stunning, high-converting sites that align with your business goals, helping you stand out and scale effectively.",
-      "🞄 Responsive Design",
-      "🞄 Wireframing",
-      "🞄 UX Writing",
+      "▸ Responsive Design",
+      "▸ Wireframing",
+      "▸ UX Writing",
     ],
   },
   {
     title: "Development",
     contents: [
       "A website developed to captivate and convert can elevate your brand to new heights. My custom-coded sites are meticulously crafted to reflect your unique identity. delivering seamless experiences with a focus on animation—keeping your audience engaged and returning.",
-      "🞄 CMS Integration",
-      "🞄 Motion & Animatons",
-      "🞄 3D Development",
+      "▸ CMS Integration",
+      "▸ Motion & Animatons",
+      "▸ 3D Development",
     ],
   },
   {
     title: "SEO",
     contents: [
       "Your website deserves to be seen. I optimize your online presence to elevate your visibility in search results, helping your business attract the right audience and stand out in the digital landscape.",
-      "🞄 Technical SEO",
-      "🞄 On-Page Optimization",
-      "🞄 SEO Audits & Analysis",
+      "▸ Technical SEO",
+      "▸ On-Page Optimization",
+      "▸ SEO Audits & Analysis",
     ],
   },
 ];
