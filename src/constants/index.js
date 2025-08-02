@@ -1,6 +1,6 @@
 export const myProjects = [
   {
-    id: 2,
+    id: 1,
     title: "Productivity Dashboard",
     description:
       "A modern productivity dashboard that delivers real-time insights and tools through a clean, interactive interface.",
@@ -10,7 +10,7 @@ export const myProjects = [
       "Fetches and displays motivational quotes dynamically.",
       "Built using HTML, CSS, JavaScript, and integrated with third-party APIs.",
     ],
-    href: "",
+    href: "https://productivity-dashboard-eu9j.onrender.com",
     logo: "",
     image: "/assets/projects/dashboard.png",
     tags: [
@@ -29,15 +29,10 @@ export const myProjects = [
         name: "JavaScript",
         path: "/assets/logos/javascript.svg",
       },
-      {
-        id: 4,
-        name: "Fonts",
-        path: "/assets/logos/fonts.svg",
-      },
     ],
   },
   {
-    id: 3,
+    id: 2,
     title: "GitHub Profile Finder",
     description:
       "A responsive web app to search and explore GitHub user profiles with real-time data integration.",
@@ -46,7 +41,7 @@ export const myProjects = [
       "Displays user details including avatar, bio, repository count, follower stats, and account creation date using the GitHub REST API.",
       "Developed using HTML, TailwindCSS, and JavaScript, with robust error handling and clean, user-friendly UI design.",
     ],
-    href: "",
+    href: "https://github-profile-finder-hki0.onrender.com",
     logo: "",
     image: "/assets/projects/profile-finder.png",
     tags: [
@@ -68,7 +63,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 4,
+    id: 3,
     title: "QuickWeather",
     description:
       "A minimalist weather app that provides real-time weather updates based on the user’s current location using the WeatherAPI.",
@@ -77,7 +72,7 @@ export const myProjects = [
       "Displays temperature, weather conditions, humidity, and wind speed in a responsive UI with light/dark theme toggle.",
       "Built using HTML, CSS, and JavaScript, with clean design, smooth transitions, and robust error handling.",
     ],
-    href: "",
+    href: "https://quickweather-hhbz.onrender.com",
     logo: "",
     image: "/assets/projects/weather.png",
     tags: [
@@ -99,7 +94,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 5,
+    id: 4,
     title: "Recipe Book",
     description:
       "A modern recipe app to explore, create, and manage your favorite dishes with a clean and responsive interface.",
